@@ -15,7 +15,7 @@ This system seeks solve these problems by reducing the games we love to their mo
     Character features over classes.
     Flexibility over options.
     Players should not roll for "permission". 
-    Mechanics _feel_ implicit. 
+    Mechanics feel implicit. 
 
 ## Combat
 
